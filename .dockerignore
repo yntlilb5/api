@@ -1,0 +1,6 @@
+*
+
+!scripts/*
+!.gitignore
+!go.*
+!*.go
